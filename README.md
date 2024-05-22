@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on analyzing the geometric properties of wheat kernels from three varieties: Kama, Rosa, and Canadian, utilizing Principal Component Analysis (PCA) and K-Means clustering. The primary goal is to enhance dimensionality reduction and unsupervised learning techniques. Additionally, Support Vector Machines (SVM) are employed as the main model for classification due to their robustness with high-dimensional data. The project is implemented using Python with libraries such as Scikit-learn and Matplotlib.
+This was created using Google Colab for more ease of use, eliminating the need to download required resources. The PDF, colab, and python files for the project have been provided. This project focuses on analyzing the geometric properties of wheat kernels from three varieties: Kama, Rosa, and Canadian, utilizing Principal Component Analysis (PCA) and K-Means clustering. The primary goal is to enhance dimensionality reduction and unsupervised learning techniques. Additionally, Support Vector Machines (SVM) are employed as the main model for classification due to their robustness with high-dimensional data. The project is implemented using Python with libraries such as Scikit-learn and Matplotlib.
 
 ## Dataset Description
 
